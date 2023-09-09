@@ -9,6 +9,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 metafile = true
 
@@ -89,6 +93,10 @@ file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 metafile = true
 
@@ -98,6 +106,10 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
 metafile = true
 
 [[files]]
@@ -141,6 +153,10 @@ file = "mods/mixintrace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
@@ -158,6 +174,10 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
 metafile = true
 
 [[files]]
@@ -190,6 +210,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
 metafile = true
 
 [[files]]

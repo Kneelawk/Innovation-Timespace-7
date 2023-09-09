@@ -1,0 +1,13 @@
+name = "Industrial Revolution"
+filename = "indrev-1.16.5-BETA.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kFs9AeXi/versions/bUvfY4Da/indrev-1.16.5-BETA.jar"
+hash-format = "sha1"
+hash = "c9c952dd6d3dff9371ec066baf4c8accc531870c"
+
+[update]
+[update.modrinth]
+mod-id = "kFs9AeXi"
+version = "bUvfY4Da"
