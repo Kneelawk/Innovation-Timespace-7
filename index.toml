@@ -9,6 +9,10 @@ file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
@@ -18,6 +22,14 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
