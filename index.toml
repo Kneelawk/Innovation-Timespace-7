@@ -9,6 +9,10 @@ file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 metafile = true
 
