@@ -5,9 +5,17 @@ file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
 metafile = true
