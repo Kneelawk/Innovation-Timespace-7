@@ -69,11 +69,19 @@ file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
 metafile = true
 
 [[files]]
@@ -102,6 +110,10 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
 metafile = true
 
 [[files]]
@@ -145,6 +157,10 @@ file = "mods/loadingscreentips.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
@@ -174,6 +190,10 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
