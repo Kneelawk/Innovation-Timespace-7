@@ -17,6 +17,10 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 metafile = true
 
