@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-networking.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 metafile = true
 
@@ -22,6 +30,10 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
 metafile = true
 
 [[files]]
@@ -65,6 +77,14 @@ file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 metafile = true
 
@@ -101,7 +121,23 @@ file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -197,6 +233,14 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 metafile = true
 
@@ -221,6 +265,10 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -234,6 +282,14 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
 metafile = true
 
 [[files]]
