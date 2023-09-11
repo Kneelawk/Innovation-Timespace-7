@@ -21,6 +21,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
@@ -216,7 +220,15 @@ file = "mods/lootr-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
 metafile = true
 
 [[files]]
