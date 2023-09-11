@@ -208,6 +208,10 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/keybind-fix.pw.toml"
 metafile = true
 
@@ -237,6 +241,10 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mealapi.pw.toml"
 metafile = true
 
 [[files]]
@@ -300,6 +308,10 @@ file = "mods/peripheralium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 metafile = true
 
@@ -325,6 +337,14 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
 metafile = true
 
 [[files]]
