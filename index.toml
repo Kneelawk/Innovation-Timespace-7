@@ -9,7 +9,15 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amarite.pw.toml"
 metafile = true
 
 [[files]]
@@ -25,7 +33,15 @@ file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/arch-ex.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations.pw.toml"
 metafile = true
 
 [[files]]
@@ -45,6 +61,10 @@ file = "mods/better-advancements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-enchantment-boosting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 metafile = true
 
@@ -57,6 +77,10 @@ file = "mods/bits-and-chisels.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 metafile = true
 
@@ -65,7 +89,15 @@ file = "mods/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/calibrated.pw.toml"
 metafile = true
 
 [[files]]
@@ -97,6 +129,10 @@ file = "mods/conjuring.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
@@ -125,6 +161,10 @@ file = "mods/dankstorage-1.20.1-4.6+dev.kneelawk.jar"
 
 [[files]]
 file = "mods/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/decomod.pw.toml"
 metafile = true
 
 [[files]]
@@ -196,6 +236,18 @@ file = "mods/fwaystones.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/icyincitement.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 metafile = true
 
@@ -232,6 +284,10 @@ file = "mods/lazydfu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -241,6 +297,10 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
 metafile = true
 
 [[files]]
@@ -257,6 +317,14 @@ metafile = true
 
 [[files]]
 file = "mods/merequester.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/milk_plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/missing-wilds.pw.toml"
 metafile = true
 
 [[files]]
@@ -284,6 +352,10 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 metafile = true
 
@@ -308,6 +380,14 @@ file = "mods/peripheralium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/piercingpaxels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pineapple-mod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 metafile = true
 
@@ -316,11 +396,19 @@ file = "mods/plethora-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/plushables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pollinators-paradise.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/power-networks.pw.toml"
 metafile = true
 
 [[files]]
@@ -336,6 +424,10 @@ file = "mods/quilt-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rainglow.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -345,6 +437,14 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scarves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scriptor-magicae.pw.toml"
 metafile = true
 
 [[files]]
@@ -368,7 +468,19 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/soulice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tablesaw.pw.toml"
 metafile = true
 
 [[files]]
@@ -384,11 +496,27 @@ file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tree-hollows.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/turtlematic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
 metafile = true
 
 [[files]]
