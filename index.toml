@@ -33,6 +33,10 @@ file = "mods/auth-me.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 metafile = true
 
@@ -272,7 +276,15 @@ file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/peculiarpieces.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pollinators-paradise.pw.toml"
 metafile = true
 
 [[files]]
