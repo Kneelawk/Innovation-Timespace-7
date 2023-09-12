@@ -57,6 +57,10 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 metafile = true
 
@@ -66,6 +70,14 @@ metafile = true
 
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
 metafile = true
 
 [[files]]
@@ -121,6 +133,10 @@ file = "mods/chunky.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -158,6 +174,10 @@ metafile = true
 
 [[files]]
 file = "mods/dankstorage-1.20.1-4.6+dev.kneelawk.jar"
+
+[[files]]
+file = "mods/dawn.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
@@ -412,6 +432,10 @@ file = "mods/power-networks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/promenade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 metafile = true
 
@@ -492,7 +516,15 @@ file = "mods/templates-2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/terrestria.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
 metafile = true
 
 [[files]]
