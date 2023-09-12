@@ -356,6 +356,10 @@ file = "mods/modern-industrialization.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
