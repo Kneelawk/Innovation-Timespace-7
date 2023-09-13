@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/soulbound.json"
+
+[[files]]
+file = "config/universal-graves/config.json"
+
+[[files]]
+file = "mods/Soulbound-Fabric-0.5+dev.kneelawk.jar"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 metafile = true
 
@@ -444,12 +453,11 @@ file = "mods/qkl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
+file = "mods/quilt-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-metafile = true
+file = "mods/quilted-fabric-api-7.2.2+local-0.88.1-1.20.1.jar"
 
 [[files]]
 file = "mods/rainglow.pw.toml"
@@ -541,6 +549,10 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
 metafile = true
 
 [[files]]
