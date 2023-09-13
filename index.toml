@@ -245,7 +245,19 @@ file = "mods/ebe.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
 metafile = true
 
 [[files]]
