@@ -10,6 +10,10 @@ file = "config/universal-graves/config.json"
 file = "mods/Soulbound-Fabric-0.5+dev.kneelawk.jar"
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 metafile = true
 
@@ -91,6 +95,10 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
 metafile = true
 
 [[files]]
@@ -179,6 +187,18 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -274,6 +294,14 @@ metafile = true
 
 [[files]]
 file = "mods/icyincitement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures-ii.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
 metafile = true
 
 [[files]]
@@ -472,6 +500,10 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 metafile = true
 
@@ -540,6 +572,10 @@ file = "mods/terrestria.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
@@ -576,6 +612,14 @@ file = "mods/utility-belt.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 metafile = true
 
@@ -593,4 +637,40 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
 metafile = true
