@@ -620,10 +620,6 @@ file = "mods/templates-2.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/terrestria.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/travelers-titles.pw.toml"
 metafile = true
 
