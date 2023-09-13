@@ -122,6 +122,10 @@ file = "mods/bovines-and-buttercups.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -175,6 +179,10 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/coxinha-utilities.pw.toml"
 metafile = true
 
 [[files]]
@@ -322,6 +330,10 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
 metafile = true
 
 [[files]]
