@@ -373,6 +373,10 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 metafile = true
 
@@ -513,6 +517,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
