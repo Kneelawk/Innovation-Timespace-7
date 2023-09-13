@@ -425,6 +425,10 @@ file = "mods/merequester.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/milk_plus.pw.toml"
 metafile = true
 
@@ -446,6 +450,10 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
 metafile = true
 
 [[files]]
