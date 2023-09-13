@@ -110,6 +110,14 @@ file = "mods/blahaj.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blossompvp.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 metafile = true
 
@@ -265,6 +273,10 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 metafile = true
 
@@ -382,6 +394,10 @@ metafile = true
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
 metafile = true
 
 [[files]]
@@ -573,6 +589,18 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
 metafile = true
 
 [[files]]

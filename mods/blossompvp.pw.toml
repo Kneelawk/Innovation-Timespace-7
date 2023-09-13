@@ -1,0 +1,13 @@
+name = "BlossomPVP"
+filename = "blossom-pvp-2.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IpAUX4Rv/versions/e6hAfhVz/blossom-pvp-2.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "7e05b9623aae9403e871770fdfea723f4de2bd8a"
+
+[update]
+[update.modrinth]
+mod-id = "IpAUX4Rv"
+version = "e6hAfhVz"
