@@ -10,6 +10,10 @@ file = "config/universal-graves/config.json"
 file = "mods/Soulbound-Fabric-0.5+dev.kneelawk.jar"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 metafile = true
 
@@ -123,6 +127,10 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
@@ -541,6 +549,14 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
