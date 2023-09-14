@@ -30,6 +30,9 @@ file = "mods/affectionate.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/airbag-1.1.0+1.20.1.jar"
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 metafile = true
 
@@ -641,6 +644,10 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
 metafile = true
 
 [[files]]
