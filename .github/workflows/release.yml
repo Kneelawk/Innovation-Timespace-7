@@ -1,0 +1,53 @@
+# This handles releasing the modpack when I push a tag
+
+name: release
+
+env:
+  PROJECT_NAME: Innovation Timespace 7
+
+on:
+  push:
+    tags:
+      # matches things like v0.3.3
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+
+jobs:
+  publish-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Tag Version
+        uses: dawidd6/action-get-tag@v1
+        id: tag_name
+      - name: Clean Tag Version
+        uses: actions/github-script@v6
+        id: tag_version
+        env:
+          TAG_NAME: ${{ steps.tag_name.outputs.tag }}
+        with:
+          script: |
+            let fullVersion = process.env.TAG_NAME;
+            return fullVersion.substring(1);
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: 'stable'
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Update Project Version
+        run: sed -i 's/version = "[^"]*"/version = "${{ steps.tag_version.outputs.result }}"/g'
+      - name: Generate Hashes
+        run: packwiz refresh --build
+      - name: Commit Hashed Files
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m 'Publish ${{ env.PROJECT_NAME }} ${{ steps.tag_name.outputs.tag }}'
+      - name: Push Hashed Files
+        uses: ad-m/github-push-action@master
+        with:
+          branch: pack
+          force: true
+
