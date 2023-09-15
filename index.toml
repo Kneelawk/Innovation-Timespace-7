@@ -1,13 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bclib/client.json"
+file = "config/yosbr/config/bclib/client.json"
 
 [[files]]
-file = "config/soulbound.json"
+file = "config/yosbr/config/soulbound.json"
 
 [[files]]
-file = "config/universal-graves/config.json"
+file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
 file = "mods/Soulbound-Fabric-0.5+dev.kneelawk.jar"
@@ -723,6 +723,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
