@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-
-[[files]]
 file = "config/soulbound.json"
 
 [[files]]
