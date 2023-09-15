@@ -48,7 +48,7 @@ jobs:
       - name: Push Hashed Files
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PUBLISH_TOKEN }}
           branch: pack
           force: true
 
