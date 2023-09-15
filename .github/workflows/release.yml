@@ -36,7 +36,7 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Update Project Version
-        run: sed -i 's/version = "[^"]*"/version = "${{ steps.tag_version.outputs.result }}"/g' pack.toml
+        run: sed -i 's/version = "[^"]*"/version = ${{ steps.tag_version.outputs.result }}/g' pack.toml
       - name: Generate Hashes
         run: packwiz refresh --build
       - name: Commit Hashed Files
