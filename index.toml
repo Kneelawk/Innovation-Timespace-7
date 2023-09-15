@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
 file = "config/soulbound.json"
 
 [[files]]
