@@ -85,4 +85,9 @@ jobs:
         env:
           TAG_NAME: ${{ steps.tag_name.outputs.tag }}
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+      - name: Update Modrinth Description
+        uses: funnyboy-roks/modrinth-auto-desc@v1.6
+        with:
+          auth-token: ${{ secrets.MODRINTH_TOKEN }}
+          slug: innovation-timespace-7
 
