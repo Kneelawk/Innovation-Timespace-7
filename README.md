@@ -14,7 +14,7 @@ MultiMC and PrismLauncher can use a dedicated, automatically-updating instance t
 
 ## Alpha
 
-This modpack is still in alpha while we wait for more core mods like Botania and Spectrum to update to Minecraft 1.20.
+This modpack is still in alpha while we wait for more core mods like Botania, Spectrum, and Yttr to update to Minecraft 1.20.
 
 Once more core mods are available and in the pack, an official 1.0 version will be released.
 
