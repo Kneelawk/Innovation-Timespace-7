@@ -23,8 +23,8 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 <details>
 <summary>Mod List</summary>
 
-189 Mods:
-* [Ad Astra](https://modrinth.com/mod/ad-astra) by Kekie6, ThatGravyBoat, Terrarium, CodexAdrian, Facundo46, AlexNijjar, and fizziy
+193 Mods:
+* [Ad Astra](https://modrinth.com/mod/ad-astra) by CodexAdrian, Facundo46, AlexNijjar, Kekie6, ThatGravyBoat, Terrarium, and fizziy
 * [Additional Structures](https://modrinth.com/mod/additional-structures) by XxRexRaptorxX
 * [Advanced Networking](https://modrinth.com/mod/advanced-networking) by MattiDragon
 * [Affectionate](https://modrinth.com/mod/affectionate) by LambdAurora
@@ -35,7 +35,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 * [Applied Energistics 2](https://modrinth.com/mod/ae2) by shartte and Technici4n
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) by Mari023
-* [Architecture Extensions](https://modrinth.com/mod/arch-ex) by Ampflower, woodiertexas, Maximum, falkreon, and Cart3r1234
+* [Architecture Extensions](https://modrinth.com/mod/arch-ex) by woodiertexas, Ampflower, Maximum, falkreon, and Cart3r1234
 * [Architectury API](https://modrinth.com/mod/architectury-api) by shedaniel, MaxNeedsSnacks, and Juuz
 * [Aurora's Decorations](https://modrinth.com/mod/aurorasdecorations) by LambdAurora
 * [Auth Me](https://modrinth.com/mod/auth-me) by axieum
@@ -47,29 +47,30 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Better Log4j Config](https://modrinth.com/mod/better-log4j-config) by Pixelstormer
 * [BetterEnd](https://modrinth.com/mod/betterend) by quiqueck
 * [BetterNether](https://modrinth.com/mod/betternether) by quiqueck
-* [Bewitchment](https://modrinth.com/mod/bewitchment) by MoriyaShiine and cybercat5555
+* [Bewitchment](https://modrinth.com/mod/bewitchment) by cybercat5555 and MoriyaShiine
 * [Biome Makeover](https://modrinth.com/mod/biome-makeover) by Lemon
 * [Bits And Chisels](https://modrinth.com/mod/bits-and-chisels) by CoolMineman
 * [BlossomLib](https://modrinth.com/mod/blossomlib) by CodedSakura
 * [BlossomPVP](https://modrinth.com/mod/blossompvp) by CodedSakura
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) by Motschen
-* [Blåhaj](https://modrinth.com/mod/blahaj) by hibi
+* [Bl��haj](https://modrinth.com/mod/blahaj) by hibi
 * [Borderless Mining](https://modrinth.com/mod/borderless-mining) by comp500
+* [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction) by Barribob
 * [Botarium](https://modrinth.com/mod/botarium) by CodexAdrian and Terrarium
 * [Bovines and Buttercups (Mooblooms)](https://modrinth.com/mod/bovines-and-buttercups) by SpiderKolo and Pug
 * [Building Wands](https://modrinth.com/mod/building-wands) by nicguzzo
-* [Calibrated Access](https://modrinth.com/mod/calibrated) by acikek and Trudle_
+* [Calibrated Access](https://modrinth.com/mod/calibrated) by Trudle_ and acikek
 * [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) by Up and Pyrofab
 * [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) by squiddev
 * [CC:C Bridge](https://modrinth.com/mod/cccbridge) by Sammy and Luke1550
-* [Chat Heads](https://modrinth.com/mod/chat-heads) by dzwdz and Fourmisain
+* [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain and dzwdz
 * [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 * [Chunky](https://modrinth.com/mod/chunky) by pop4959
 * [Cinderscapes](https://modrinth.com/mod/cinderscapes) by NeusFear, LudoCrypt, gniftygnome, and Prospector
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) by shedaniel
 * [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) by ishland and duplexsystem
 * [Conjuring](https://modrinth.com/mod/conjuring) by glisco and Noaaan
-* [Consistency+](https://modrinth.com/mod/consistencyplus) by Siuolplex, triphora, Andrew6rant, tropheusj, Deviouslrd, IMS212, and Cart3r1234
+* [Consistency+](https://modrinth.com/mod/consistencyplus) by IMS212, Cart3r1234, triphora, Siuolplex, tropheusj, Andrew6rant, and Deviouslrd
 * [Continuity](https://modrinth.com/mod/continuity) by peppercode1
 * [Controlify](https://modrinth.com/mod/controlify) by isxander
 * [Controlling](https://modrinth.com/mod/controlling) by jaredlll08
@@ -89,7 +90,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by juliand665 and LostLuma
 * [Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)](https://modrinth.com/mod/ears) by unascribed
 * [EMI](https://modrinth.com/mod/emi) by Emi
-* [EMI Addon: Extra Mod Integrations](https://modrinth.com/mod/extra-mod-integrations) by Kneelawk, JoostMSoftware, and Abbie
+* [EMI Addon: Extra Mod Integrations](https://modrinth.com/mod/extra-mod-integrations) by Abbie, JoostMSoftware, and Kneelawk
 * [EMI Loot](https://modrinth.com/mod/emi-loot) by fzzyhmstrs
 * [EMI Trades](https://modrinth.com/mod/emitrades) by Flamarine
 * [EMIffect](https://modrinth.com/mod/emiffect) by Flamarine
@@ -106,7 +107,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Fastload](https://modrinth.com/mod/fastload) by AbdElAziz, StockiesLad, and JoostMSoftware
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
 * [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
-* [Geckolib](https://modrinth.com/mod/geckolib) by DerToaster98, mchorse, KyoSleep, Gecko, and Tslat
+* [Geckolib](https://modrinth.com/mod/geckolib) by DerToaster98, mchorse, Tslat, KyoSleep, and Gecko
 * [Get Off My Lawn ReServed](https://modrinth.com/mod/goml-reserved) by Patbox
 * [Icy Incitement](https://modrinth.com/mod/icyincitement) by AmyMialee
 * [Immersive structures](https://modrinth.com/mod/immersive-structures) by ChoiceTheorem
@@ -125,7 +126,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Lithium](https://modrinth.com/mod/lithium) by 2No2Name and jellysquid3
 * [Loading Screen Tips](https://modrinth.com/mod/loadingscreentips) by UltrusBot
 * Lootr (Fabric)
-* [Lovely Snails](https://modrinth.com/mod/lovely_snails) by Arathain and LambdAurora
+* [Lovely Snails](https://modrinth.com/mod/lovely_snails) by LambdAurora and Arathain
 * [LuckPerms](https://modrinth.com/mod/luckperms) by lucko
 * [ME Requester](https://modrinth.com/mod/merequester) by Relentless
 * [Meal API](https://modrinth.com/mod/mealapi) by FoundationGames
@@ -133,10 +134,11 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) by fxmorin and KingContaria
 * [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures) by FinnSetchell
 * [Milk+](https://modrinth.com/mod/milk_plus) by tropheusj
+* [Mine Cells - Dead Cells Mod](https://modrinth.com/mod/minecells) by mim1q
 * [Missing Wilds](https://modrinth.com/mod/missing-wilds) by UltrusBot
 * [MixinTrace](https://modrinth.com/mod/mixintrace) by comp500
-* [Mod Menu](https://modrinth.com/mod/modmenu) by NeusFear, modmuss50, Prospector, and jackassmc
-* [Modern Industrialization](https://modrinth.com/mod/modern-industrialization) by Azercoco and Technici4n
+* [Mod Menu](https://modrinth.com/mod/modmenu) by modmuss50, NeusFear, jackassmc, and Prospector
+* [Modern Industrialization](https://modrinth.com/mod/modern-industrialization) by Technici4n and Azercoco
 * [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
 * [Moonlight Lib](https://modrinth.com/mod/moonlight) by MehVahdJukaar
 * [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
@@ -145,21 +147,21 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer and Aizistral
 * [Now Playing](https://modrinth.com/mod/now-playing) by Scotsguy
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) by Ennui
-* [oωo (owo-lib)](https://modrinth.com/mod/owo-lib) by glisco and BasiqueEvangelist
+* [o��o (owo-lib)](https://modrinth.com/mod/owo-lib) by glisco and BasiqueEvangelist
 * [Patchouli](https://modrinth.com/mod/patchouli) by williewillus and Vazkii
 * [Peculiar Pieces](https://modrinth.com/mod/peculiarpieces) by AmyMialee and unascribed
 * [Pehkui](https://modrinth.com/mod/pehkui) by Virtuoel
 * [Peripheralium](https://modrinth.com/mod/peripheralium) by SirEdvin
-* [Piercing Paxels ⚒️](https://modrinth.com/mod/piercingpaxels) by AmyMialee
+* [Piercing Paxels ������](https://modrinth.com/mod/piercingpaxels) by AmyMialee
 * [Pineapple](https://modrinth.com/mod/pineapple-mod) by ubionexd
 * [Plant In A Jar](https://modrinth.com/mod/plant-in-a-jar) by CoolMineman
-* [Plethora Peripherals](https://modrinth.com/mod/plethora-peripherals) by squiddev, emmachase, and Lemmmy
+* [Plethora Peripherals](https://modrinth.com/mod/plethora-peripherals) by Lemmmy, squiddev, and emmachase
 * [Plushables](https://modrinth.com/mod/plushables) by khazoda
 * [Pollinators' Paradise](https://modrinth.com/mod/pollinators-paradise) by GardenSystem
 * [Powah!](https://modrinth.com/mod/powah) by Technici4n
 * [Power Networks](https://modrinth.com/mod/power-networks) by MattiDragon
 * [Promenade](https://modrinth.com/mod/promenade) by Hugman
-* [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl) by NoComment1105, Potatoboy9999, Octal, Quilt-Holdings, and sschr15
+* [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl) by Quilt-Holdings, Potatoboy9999, Octal, NoComment1105, and sschr15
 * [Quilt Loading Screen](https://modrinth.com/mod/quilt-loading-screen) by triphora
 * [Quilted Fabric API](https://quiltmc.org) by The Quilt Project and FabricMC
 * [rainglow](https://modrinth.com/mod/rainglow) by ix0rai
@@ -175,7 +177,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Server Tick](https://modrinth.com/mod/servertick) by sammko
 * [Sodium](https://modrinth.com/mod/sodium) by jellysquid3 and IMS212
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
-* [Softer Pastels](https://modrinth.com/mod/softer-pastels) by Stereo528, asoji, Cart3r1234, and devOS-Nautical
+* [Softer Pastels](https://modrinth.com/mod/softer-pastels) by asoji, devOS-Nautical, Stereo528, and Cart3r1234
 * [Soul Ice](https://modrinth.com/mod/soulice) by Siuolplex
 * Soulbound by iMoonDay
 * [StackDeobfuscator](https://modrinth.com/mod/stackdeobf) by booky10
@@ -187,16 +189,17 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * Tech Reborn
 * [Templates 2](https://modrinth.com/mod/templates-2) by quat
 * [Terrestria](https://modrinth.com/mod/terrestria) by jaskarth, Prospector, coderbot, gniftygnome, and NeusFear
+* [The Graveyard (FABRIC)](https://modrinth.com/mod/the-graveyard-fabric) by finallion
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) by Tiviacz1337
 * [Traveler's Titles](https://modrinth.com/mod/travelers-titles) by YUNGNICKYOUNG
-* [Traverse](https://modrinth.com/mod/traverse) by NeusFear, gniftygnome, and Prospector
+* [Traverse](https://modrinth.com/mod/traverse) by NeusFear, Prospector, and gniftygnome
 * [Tree Hollows](https://modrinth.com/mod/tree-hollows) by Reoseah
 * [Trinkets](https://modrinth.com/mod/trinkets) by Emi
 * [Turtlematic](https://modrinth.com/mod/turtlematic) by SirEdvin
 * [Universal Graves](https://modrinth.com/mod/universal-graves) by Patbox
 * [Universal Shops](https://modrinth.com/mod/universal-shops) by Patbox
 * [UnlimitedPeripheralWorks](https://modrinth.com/mod/unlimitedperipheralworks) by SirEdvin
-* [Utility Belt](https://modrinth.com/mod/utility-belt) by Jomlom and jamalam
+* [Utility Belt](https://modrinth.com/mod/utility-belt) by jamalam and Jomlom
 * [VillagersPlus](https://modrinth.com/mod/villagersplus) by finallion
 * [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) by aureljz
 * [Wired Redstone](https://modrinth.com/mod/wiredredstone) by Kneelawk
@@ -204,6 +207,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) by thexaero
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by thexaero
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl) by isxander
+* [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by shedaniel
 * [YUNG's API](https://modrinth.com/mod/yungs-api) by YUNGNICKYOUNG
 * [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by YUNGNICKYOUNG and Tera458
 * [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) by YUNGNICKYOUNG
