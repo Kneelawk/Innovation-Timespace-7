@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -ex
+set -x
 
 PROJECT_NAME="Innovation Timespace 7"
 PROJECT_ID="bchAhFQi"
@@ -32,6 +32,8 @@ read -r -d '' CREATE_VERSION_JSON <<EOF
     "primary_file": "file"
 }
 EOF
+
+set -e
 
 echo "Sending Request:"
 echo "$CREATE_VERSION_JSON"
