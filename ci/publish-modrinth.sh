@@ -13,7 +13,7 @@ read -r -d '' CREATE_VERSION_JSON <<EOF
 {
     "name": "$PROJECT_NAME $TAG_NAME",
     "version_number": "$TAG_VERSION",
-    "changelog": "$CHANGELOG",
+    "changelog": $CHANGELOG,
     "dependencies": [],
     "game_versions": [
         "1.20.1"
@@ -34,9 +34,6 @@ read -r -d '' CREATE_VERSION_JSON <<EOF
 EOF
 
 set -e
-
-echo "Sending Request:"
-echo "$CREATE_VERSION_JSON"
 
 FILENAME="$PROJECT_NAME-$TAG_VERSION.mrpack"
 
