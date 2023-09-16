@@ -69,7 +69,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install jq
-        uses: dcarbone/install-jq-action@v2
+        uses: dcarbone/install-jq-action@v2.0.0
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
