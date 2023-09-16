@@ -1,4 +1,6 @@
 /.github/
+/changelogs/
+/ci/
 /installers/
 /LICENSE
 /README.md

@@ -51,4 +51,27 @@ jobs:
           github_token: ${{ secrets.PUBLISH_TOKEN }}
           branch: pack
           force: true
+  publish-modrinth:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Tag Version
+        uses: dawidd6/action-get-tag@v1
+        id: tag_name
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: 'stable'
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Update Project Version
+        run: sed -i 's/version = "[^"]*"/version = ${{ steps.tag_version.outputs.result }}/g' pack.toml
+      - name: Build Modrinth Modpack
+        run: packwiz mr export
+      - name: Publish Modpack to Modrinth
+        run: ci/publish-modrinth.sh
+        env:
+          TAG_NAME: ${{ steps.tag_name.outputs.tag }}
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
 
