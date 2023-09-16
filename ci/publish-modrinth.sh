@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -e
+set -ex
 
 PROJECT_NAME="Innovation Timespace 7"
 PROJECT_ID="bchAhFQi"
