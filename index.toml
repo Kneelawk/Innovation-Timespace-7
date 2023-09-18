@@ -212,6 +212,10 @@ file = "mods/coxinha-utilities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 metafile = true
 
@@ -372,6 +376,10 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
 metafile = true
 
 [[files]]
