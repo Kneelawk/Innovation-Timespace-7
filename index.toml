@@ -10,9 +10,6 @@ file = "config/yosbr/config/soulbound.json"
 file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
-file = "mods/Soulbound-Fabric-0.5+dev.kneelawk.jar"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 metafile = true
 
@@ -631,6 +628,10 @@ metafile = true
 
 [[files]]
 file = "mods/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/soulbound-enchantment.pw.toml"
 metafile = true
 
 [[files]]

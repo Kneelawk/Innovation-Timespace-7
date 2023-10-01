@@ -1,0 +1,13 @@
+name = "Soulbound Enchantment"
+filename = "Soulbound-Fabric-0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MmUmcwom/versions/QJk65nNf/Soulbound-Fabric-0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7652d4ed2348baea24ecba3453205d9da55c910d"
+
+[update]
+[update.modrinth]
+mod-id = "MmUmcwom"
+version = "QJk65nNf"
