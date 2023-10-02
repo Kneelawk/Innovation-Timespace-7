@@ -1,13 +1,13 @@
 name = "Tree Hollows"
-filename = "tree-hollows-fabric-3.0.1.jar"
+filename = "tree-hollows-fabric-3.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g744qmft/versions/jxvuqcF9/tree-hollows-fabric-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/g744qmft/versions/stCzQhpB/tree-hollows-fabric-3.1.0.jar"
 hash-format = "sha1"
-hash = "4eda3084e8680cf4751622ace6fc3c206b5d7f35"
+hash = "7ad1a6168f17be5ed9038ce3761b09bf3e074bf4"
 
 [update]
 [update.modrinth]
 mod-id = "g744qmft"
-version = "jxvuqcF9"
+version = "stCzQhpB"
