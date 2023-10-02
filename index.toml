@@ -360,8 +360,7 @@ file = "mods/immersive-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-metafile = true
+file = "mods/indium-1.0.21-dev.a22b8e8+mc1.20.1.jar"
 
 [[files]]
 file = "mods/industrial-revolution.pw.toml"
@@ -564,11 +563,12 @@ file = "mods/qkl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
+file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quilted-fabric-api-7.2.2+local-0.88.1-1.20.1.jar"
+file = "mods/quilt-loading-screen.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/rainglow.pw.toml"
