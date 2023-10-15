@@ -129,6 +129,10 @@ file = "mods/blur-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 metafile = true
 
@@ -238,6 +242,14 @@ metafile = true
 
 [[files]]
 file = "mods/dankstorage-1.20.1-4.6+dev.kneelawk.jar"
+
+[[files]]
+file = "mods/dark-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"
@@ -527,6 +539,10 @@ file = "mods/piercingpaxels.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pineapple-mod.pw.toml"
 metafile = true
 
@@ -595,6 +611,10 @@ file = "mods/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/runelic.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.pw.toml"
 metafile = true
 
@@ -612,6 +632,14 @@ metafile = true
 
 [[files]]
 file = "mods/servertick.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
 metafile = true
 
 [[files]]
