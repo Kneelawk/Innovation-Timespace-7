@@ -10,6 +10,39 @@ file = "config/yosbr/config/soulbound.json"
 file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
+file = "kubejs/README.txt"
+
+[[files]]
+file = "kubejs/config/common.properties"
+
+[[files]]
+file = "kubejs/data/c/tags/items/copper_nuggets.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/deepslate_uraninite_ore.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/deepslate_uraninite_ore_dense.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/deepslate_uraninite_ore_poor.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/uraninite_ore.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/uraninite_ore_dense.json"
+
+[[files]]
+file = "kubejs/data/powah/loot_tables/blocks/uraninite_ore_poor.json"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 metafile = true
 
@@ -403,6 +436,10 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
@@ -424,6 +461,10 @@ metafile = true
 
 [[files]]
 file = "mods/loadingscreentips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
 metafile = true
 
 [[files]]
@@ -608,6 +649,10 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
 metafile = true
 
 [[files]]
