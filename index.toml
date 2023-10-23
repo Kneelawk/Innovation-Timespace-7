@@ -475,6 +475,10 @@ file = "mods/mixintrace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 metafile = true
 
