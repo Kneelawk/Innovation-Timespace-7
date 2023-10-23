@@ -40,6 +40,9 @@ file = "kubejs/data/powah/loot_tables/blocks/uraninite_ore_poor.json"
 file = "kubejs/server_scripts/example.js"
 
 [[files]]
+file = "kubejs/server_scripts/pulverizing.js"
+
+[[files]]
 file = "kubejs/startup_scripts/example.js"
 
 [[files]]
