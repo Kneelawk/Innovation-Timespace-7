@@ -97,6 +97,14 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 metafile = true
 
@@ -193,6 +201,10 @@ file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cadmus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/calibrated.pw.toml"
 metafile = true
 
@@ -210,6 +222,10 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
 metafile = true
 
 [[files]]
@@ -304,6 +320,10 @@ file = "mods/diggus-maximus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.pw.toml"
 metafile = true
 
@@ -393,6 +413,14 @@ metafile = true
 
 [[files]]
 file = "mods/goml-reserved.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
 metafile = true
 
 [[files]]
@@ -555,6 +583,10 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/now-playing.pw.toml"
 metafile = true
 
@@ -620,6 +652,10 @@ metafile = true
 
 [[files]]
 file = "mods/promenade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
 metafile = true
 
 [[files]]
@@ -747,6 +783,10 @@ file = "mods/techreborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tempad.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/templates-2.pw.toml"
 metafile = true
 
@@ -824,6 +864,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yeet.pw.toml"
 metafile = true
 
 [[files]]

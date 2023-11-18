@@ -1,0 +1,13 @@
+name = "Yeet"
+filename = "yeet-1.0.0-build.19+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJBq6bNW/versions/UybfoNN4/yeet-1.0.0-build.19%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "8fd83a13e85a0d12a5dd1f14c904234e30bb5307"
+
+[update]
+[update.modrinth]
+mod-id = "oJBq6bNW"
+version = "UybfoNN4"
