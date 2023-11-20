@@ -24,7 +24,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 <summary>Mod List</summary>
 
 222 Mods:
-* [Ad Astra](https://modrinth.com/mod/ad-astra) by AlexNijjar, Facundo46, Terrarium, fizziy, Kekie6, CodexAdrian, and ThatGravyBoat
+* [Ad Astra](https://modrinth.com/mod/ad-astra) by Terrarium, AlexNijjar, Facundo46, fizziy, Kekie6, CodexAdrian, and ThatGravyBoat
 * [Additional Structures](https://modrinth.com/mod/additional-structures) by XxRexRaptorxX
 * [Advanced Networking](https://modrinth.com/mod/advanced-networking) by MattiDragon
 * [AE2 EMI Crafting Integration](https://modrinth.com/mod/ae2-emi-crafting) by roridev
@@ -70,10 +70,10 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) by squiddev
 * [CC:C Bridge](https://modrinth.com/mod/cccbridge) by Sammy and Luke1550
 * [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain and dzwdz
-* [Chipped](https://modrinth.com/mod/chipped) by Terrarium, AlexNijjar, ThatGravyBoat, Kekie6, and CodexAdrian
+* [Chipped](https://modrinth.com/mod/chipped) by Terrarium, CodexAdrian, Kekie6, AlexNijjar, and ThatGravyBoat
 * [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 * [Chunky](https://modrinth.com/mod/chunky) by pop4959
-* [Cinderscapes](https://modrinth.com/mod/cinderscapes) by NeusFear, LudoCrypt, gniftygnome, Prospector, and Terraformers
+* [Cinderscapes](https://modrinth.com/mod/cinderscapes) by Terraformers, LudoCrypt, gniftygnome, Prospector, and NeusFear
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) by shedaniel
 * [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) by ishland and duplexsystem
 * [Conjuring](https://modrinth.com/mod/conjuring) by glisco and Noaaan
@@ -86,7 +86,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Create Crafts & Additions](https://modrinth.com/mod/createaddition) by mrh0
 * [Create Fabric](https://modrinth.com/mod/create-fabric) by alphamode, peppercode1, and tropheusj
 * [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) by possible_triangle
-* [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) by spottytheturtle, SlimeistDev, IThundxr, mattentosh, Szedann, littlechasiu, and tropheusj
+* [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) by IThundxr, spottytheturtle, SlimeistDev, Szedann, littlechasiu, tropheusj, and mattentosh
 * [CTOV - Farmer Delight Compat](https://modrinth.com/mod/ctov-farmers-delight-compat) by ChoiceTheorem
 * [CTOV - Villagers Plus Compat](https://modrinth.com/mod/ctov-villagers-plus-compat) by ChoiceTheorem
 * [Dank Storage](https://fabricmc.net/) by Tfarcenim
@@ -120,7 +120,7 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 * [Geckolib](https://modrinth.com/mod/geckolib) by DerToaster98, mchorse, KyoSleep, Gecko, and Tslat
 * [Get Off My Lawn ReServed](https://modrinth.com/mod/goml-reserved) by Patbox
-* [Handcrafted](https://modrinth.com/mod/handcrafted) by ThatGravyBoat, Marc-IceBlade, CodexAdrian, Kekie6, Terrarium, and AlexNijjar
+* [Handcrafted](https://modrinth.com/mod/handcrafted) by Kekie6, AlexNijjar, ThatGravyBoat, CodexAdrian, Marc-IceBlade, and Terrarium
 * [Heracles](https://modrinth.com/mod/heracles) by Terrarium, CodexAdrian, AlexNijjar, and ThatGravyBoat
 * [Icy Incitement](https://modrinth.com/mod/icyincitement) by AmyMialee
 * [Immersive structures](https://modrinth.com/mod/immersive-structures) by ChoiceTheorem
@@ -141,8 +141,8 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Lighty](https://modrinth.com/mod/lighty) by andi-makes and agnor99
 * [Lithium](https://modrinth.com/mod/lithium) by 2No2Name and jellysquid3
 * [Loading Screen Tips](https://modrinth.com/mod/loadingscreentips) by UltrusBot
-* [LootJS: KubeJS Addon](https://modrinth.com/mod/lootjs) by Relentless and Lytho
-* Lootr (Fabric)
+* [LootJS: KubeJS Addon](https://modrinth.com/mod/lootjs) by Lytho and Relentless
+* [Lootr](https://modrinth.com/mod/lootr) by embeddedt and noobanidus
 * [Lovely Snails](https://modrinth.com/mod/lovely_snails) by LambdAurora and Arathain
 * [LuckPerms](https://modrinth.com/mod/luckperms) by lucko
 * [ME Requester](https://modrinth.com/mod/merequester) by Relentless
@@ -213,14 +213,14 @@ Once more core mods are available and in the pack, an official 1.0 version will 
 * [Styled Player List](https://modrinth.com/mod/styledplayerlist) by Patbox
 * [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar and Plantkillable
 * [Tablesaw](https://modrinth.com/mod/tablesaw) by woodiertexas and falkreon
-* Tech Reborn
-* [Tempad](https://modrinth.com/mod/tempad) by Terrarium, Kekie6, CodexAdrian, ThatGravyBoat, and MsRandom
+* [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) by modmuss50 and drcrazy777
+* [Tempad](https://modrinth.com/mod/tempad) by MsRandom, Terrarium, Kekie6, CodexAdrian, and ThatGravyBoat
 * [Templates 2](https://modrinth.com/mod/templates-2) by quat
 * [Terrestria](https://modrinth.com/mod/terrestria) by Terraformers, NeusFear, jaskarth, Prospector, coderbot, and gniftygnome
 * [The Graveyard (FABRIC)](https://modrinth.com/mod/the-graveyard-fabric) by finallion
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) by Tiviacz1337
 * [Traveler's Titles](https://modrinth.com/mod/travelers-titles) by YUNGNICKYOUNG
-* [Traverse](https://modrinth.com/mod/traverse) by gniftygnome, NeusFear, Terraformers, and Prospector
+* [Traverse](https://modrinth.com/mod/traverse) by NeusFear, gniftygnome, Prospector, and Terraformers
 * [Tree Hollows](https://modrinth.com/mod/tree-hollows) by Reoseah
 * [Trinkets](https://modrinth.com/mod/trinkets) by Emi
 * [Turtlematic](https://modrinth.com/mod/turtlematic) by SirEdvin
