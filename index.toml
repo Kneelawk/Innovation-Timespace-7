@@ -511,7 +511,7 @@ file = "mods/lootjs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lootr-fabric.pw.toml"
+file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
