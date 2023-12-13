@@ -136,10 +136,6 @@ file = "mods/bclib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/better-enchantment-boosting.pw.toml"
 metafile = true
 
@@ -368,6 +364,10 @@ metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
 metafile = true
 
 [[files]]
@@ -615,6 +615,10 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
 metafile = true
 
 [[files]]
