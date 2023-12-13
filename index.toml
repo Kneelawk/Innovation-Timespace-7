@@ -594,10 +594,6 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 metafile = true
 
