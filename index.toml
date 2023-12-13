@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/Spectrum.json5"
+
+[[files]]
 file = "config/yosbr/config/bclib/client.json"
 
 [[files]]
@@ -711,6 +714,10 @@ file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 metafile = true
 
@@ -777,6 +784,9 @@ metafile = true
 [[files]]
 file = "mods/soulice.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/spectrum-1.7.2-deeper-down-1.7.2-dev-3296def.jar"
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
