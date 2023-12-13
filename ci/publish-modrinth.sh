@@ -18,7 +18,7 @@ read -r -d '' CREATE_VERSION_JSON <<EOF
     "game_versions": [
         "1.20.1"
     ],
-    "version_type": "alpha",
+    "version_type": "beta",
     "loaders": [
         "quilt"
     ],

@@ -12,11 +12,11 @@ MultiMC and PrismLauncher can use a dedicated, automatically-updating instance t
 
 [Auto-Updating Server Installer](https://github.com/Kneelawk/Innovation-Timespace-7/raw/main/installers/Innovation-Timespace-7-Server.tar.gz)
 
-## Alpha
+## Beta
 
-This modpack is still in alpha while we wait for more core mods like Botania, Spectrum, and Yttr to update to Minecraft 1.20.
+This modpack is currently in beta while more custom content, such as quests and recipes are added.
 
-Once more core mods are available and in the pack, an official 1.0 version will be released.
+Once the custom content has become stable enough, an official 1.0 version will be released.
 
 ## Mods
 
