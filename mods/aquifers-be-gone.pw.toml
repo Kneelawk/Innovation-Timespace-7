@@ -1,0 +1,13 @@
+name = "Aquifers Be Gone"
+filename = "aquifers-be-gone-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3DxDmIN5/versions/PzcE30nh/aquifers-be-gone-fabric-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "2cd26efe87465f9facdd627ab3c75e8a30b06bb9"
+
+[update]
+[update.modrinth]
+mod-id = "3DxDmIN5"
+version = "PzcE30nh"

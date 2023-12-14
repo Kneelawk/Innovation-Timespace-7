@@ -13,7 +13,13 @@ file = "config/yosbr/config/soulbound.json"
 file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
+file = "config/yosbr/options.txt"
+
+[[files]]
 file = "kubejs/README.txt"
+
+[[files]]
+file = "kubejs/assets/emi/index/stacks/ae2.json"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -97,6 +103,10 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aquifers-be-gone.pw.toml"
 metafile = true
 
 [[files]]
@@ -755,6 +765,10 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-gl-error.pw.toml"
 metafile = true
 
 [[files]]
