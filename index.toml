@@ -262,10 +262,6 @@ file = "mods/conjuring.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 

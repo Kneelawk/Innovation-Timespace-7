@@ -1,0 +1,3 @@
+Changelog:
+
+* Removed Consistency Plus.
