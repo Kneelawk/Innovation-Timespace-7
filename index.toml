@@ -792,7 +792,8 @@ file = "mods/soulice.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spectrum-1.7.2-deeper-down-1.7.2-dev-3296def.jar"
+file = "mods/spectrum.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
