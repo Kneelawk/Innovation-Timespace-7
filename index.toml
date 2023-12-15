@@ -823,6 +823,10 @@ file = "mods/tablesaw.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/teabridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 metafile = true
 
