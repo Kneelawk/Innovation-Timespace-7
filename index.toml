@@ -4,7 +4,13 @@ hash-format = "sha256"
 file = "config/yosbr/config/Spectrum.json5"
 
 [[files]]
+file = "config/yosbr/config/almostunified/unify.json"
+
+[[files]]
 file = "config/yosbr/config/bclib/client.json"
+
+[[files]]
+file = "config/yosbr/config/extended_drawers.json"
 
 [[files]]
 file = "config/yosbr/config/soulbound.json"
