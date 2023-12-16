@@ -466,6 +466,10 @@ file = "mods/industrial-revolution.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
