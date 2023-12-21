@@ -1,6 +1,7 @@
 name = "BCLib"
 filename = "bclib-3.0.13.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/BgNRHReB/versions/bccqbyya/bclib-3.0.13.jar"

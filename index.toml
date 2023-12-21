@@ -13,6 +13,9 @@ file = "config/yosbr/config/bclib/client.json"
 file = "config/yosbr/config/extended_drawers.json"
 
 [[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+
+[[files]]
 file = "config/yosbr/config/soulbound.json"
 
 [[files]]

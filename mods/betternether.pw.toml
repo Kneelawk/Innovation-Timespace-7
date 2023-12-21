@@ -1,6 +1,7 @@
 name = "BetterNether"
 filename = "better-nether-9.0.9.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/9kJblF2V/better-nether-9.0.9.jar"
