@@ -47,5 +47,16 @@ ServerEvents.recipes(event => {
         },
         processTime: 200
     })
+    event.custom({
+        type: 'indrev:pulverize',
+        ingredients: {
+            item: 'minecraft:nether_quartz_ore'
+        },
+        output: {
+            item: 'minecraft:quartz',
+            count: 2
+        },
+        processTime: 200
+    })
 })
 

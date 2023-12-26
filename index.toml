@@ -291,6 +291,10 @@ file = "mods/crawl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 metafile = true
 
@@ -814,6 +818,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/straw-dummy.pw.toml"
 metafile = true
 
 [[files]]

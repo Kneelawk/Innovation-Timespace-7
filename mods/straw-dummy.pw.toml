@@ -1,0 +1,13 @@
+name = "Straw Dummy"
+filename = "strawdummy-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNrAMqZV/versions/kVucsjFW/strawdummy-1.9.0.jar"
+hash-format = "sha1"
+hash = "dd47117a6c77b1e82727ddc4378791aeb8b635d2"
+
+[update]
+[update.modrinth]
+mod-id = "vNrAMqZV"
+version = "kVucsjFW"
