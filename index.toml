@@ -573,10 +573,6 @@ file = "mods/milk_plus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/minecells.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/missing-wilds.pw.toml"
 metafile = true
 
