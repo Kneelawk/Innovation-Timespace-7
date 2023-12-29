@@ -1,13 +1,13 @@
 name = "Scriptor Magicae"
-filename = "scriptor-1.0.2-1.20.1-sgd.jar"
+filename = "scriptor-1.0.3-1.20.1-sgd.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/2XspLQzj/scriptor-1.0.2-1.20.1-sgd.jar"
+url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/CPg5KZt1/scriptor-1.0.3-1.20.1-sgd.jar"
 hash-format = "sha1"
-hash = "a02dc16d94a8716286ddc0565611ffc0441498a2"
+hash = "a6a11154ac8fcefec397409a78e9b78a043c6722"
 
 [update]
 [update.modrinth]
 mod-id = "JyJgaOrk"
-version = "2XspLQzj"
+version = "CPg5KZt1"
