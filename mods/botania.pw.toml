@@ -1,13 +1,13 @@
 name = "Botania"
-filename = "Botania-1.20.1-441-FABRIC.jar"
+filename = "Botania-1.20.1-442-FABRIC.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/XiOSfzIW/Botania-1.20.1-441-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/Z88fkVtD/Botania-1.20.1-442-FABRIC.jar"
 hash-format = "sha1"
-hash = "7bc78527d6a70766550315a2d4b0691072144604"
+hash = "2e98d7132d96e8f2b1f8d2b11d9766c7d26f8ac1"
 
 [update]
 [update.modrinth]
 mod-id = "pfjLUfGv"
-version = "XiOSfzIW"
+version = "Z88fkVtD"
