@@ -64,6 +64,9 @@ file = "kubejs/server_scripts/pulverizing.js"
 file = "kubejs/startup_scripts/example.js"
 
 [[files]]
+file = "mods/Soulbound-Fabric-0.6.jar"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 metafile = true
 
@@ -794,10 +797,6 @@ metafile = true
 
 [[files]]
 file = "mods/softer-pastels.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/soulbound-enchantment.pw.toml"
 metafile = true
 
 [[files]]
